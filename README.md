@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jasperobed
-- 👀 I’m interested in Python, PHP, 
-- 🌱 I’m currently learning Python and PHP.
-- 💞️ I’m looking to collaborate on any starter project that requires my knowledge in Python and PHP.
-- 📫 How to reach me jasperchima1@gmail.com, jasperobed@gmail.com, +2348169953309
+- 👋 Hi, I’m @Jasperobed 
+- 👀 I’m a software developer 
+- 🌱 I’m currently learning and developing programming skillset in HTML, CSS, Python and Php, icluding working with MYSQL database .
+- 💞️ Interested in collaborating on any starter project that requires my programming skillset.
+- 📫 You can reach me on jasperobed@gmail.com, jasperchima1@gmail.com, +2348169953309
 
 <!---
 Jasperobed/Jasperobed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
