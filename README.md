@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasperobed 
 - 👀 I’m a software developer 
-- 🌱 I’m currently learning and developing programming skillset in HTML, CSS, Python and Php, icluding working with MYSQL database .
+- 🌱 I’m currently learning and developing programming skillset in HTML, CSS, Python, SQL and Php, icluding working with MYSQL database .
 - 💞️ Interested in collaborating on any starter project that requires my programming skillset.
 - 📫 You can reach me on jasperobed@gmail.com, jasperchima1@gmail.com, +2348169953309
 
