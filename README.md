@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasperobed 
 - 👀 I’m a software developer 
-- 🌱 I’m currently learning and developing programming skillset in Excel(Macros/VBA),HTML5, CSS, Javascript, Python, SQL, Php, icluding working with MYSQL database .
+- 🌱 I’m currently learning and developing programming skillset in Excel(Macros/VBA), Python, SQL, MYSQL, Php.
 - 💞️ Interested in collaborating on any starter project that requires my programming skillset.
 - 📫 You can reach me on jasperobed@gmail.com or jasperchima1@gmail.com
 
