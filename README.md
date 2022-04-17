@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JasperZeroes 
 - 👀 I’m currently studying Software Engineering @ ALX Holberton School
-- I speak 6 languages at the moment
-- Python, R, C, SQL, MySQL, Php
-- Feel free to browse through my repositories
+- 🤭 I speak 6 languages at the moment
+- 🐍 Python, R, C, SQL, MySQL, Php
+- 🌎 Feel free to browse through my repositories
 - 💞️ I'm always looking to collaborate on Projects.
 - 📫 Reach me on : jasperobed@gmail.com or jasperchima1@gmail.com
 
