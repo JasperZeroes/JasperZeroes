@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JasperZeroes 
+- 👋 Hi, I’m Chima Obed, Enyeribe @JasperZeroes 
 - 👀 I’m currently studying Software Engineering @ ALX Holberton School
 - 🤭 I speak 6 languages at the moment
 - 🐍 Python, R, C, SQL, MySQL, Php
