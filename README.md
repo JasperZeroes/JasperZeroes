@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chima Obed, Enyeribe @JasperZeroes 
-- 👀 I’m interested in learning Programming and Data Science skills
-- 🌱 I’m currently studying Data Science and Software Engineering
-- 🤭 I speak 5 languages at the moment
-- 🐍 Python, R, C, SQL, PHP
+- 👀 I'm developing Data Science and  Programming skillsets
+- 🌱 I’m currently studying Data Science and 
+- 🤭 I speak 5 languages at the moment (beginner level on C)
+- 🐍 Python, SQL, DAX, R, and C
 - 🌎 Feel free to browse through my repositories
 - 💞️ I'm always looking to collaborate on Projects.
 - 📫 Reach me on : jasperobed@gmail.com or jasperchima1@gmail.com
