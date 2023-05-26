@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chima Obed, Enyeribe @JasperZeroes 
 - 👀 I'm developing Data Science and  Programming skillsets
-- 🌱 I’m currently studying Data Science and 
+- 🌱 I’m a recent Data science graduate. 
 - 🤭 I speak 5 languages at the moment (beginner level on C)
 - 🐍 Python, SQL, DAX, R, and C
 - 🌎 Feel free to browse through my repositories
