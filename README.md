@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Chima Obed, Enyeribe @JasperZeroes 
 - 👀 I'm developing Data Science and  Software engineering/programming skills
-- 🌱 I’m a recent ExploreAI Data science and ALX Software engineering graduate. 
-- 🤭 I speak and understand 6 languages at the moment (familiarity with C and Java)
+- 🌱 I’m a recent ExploreAI, Data Science and ALX, Software engineering graduate
+- 🤭 I speak and understand 6 languages at the moment
 - 🐍 Python, SQL, DAX, R, C, and Java (Proficient in Python, SQL, DAX),
--    (Familiarity with C and Java) and can read/understand codes in major programming languages. 
+-    (Familiarity with C and Java) and can read/understand codes in major programming languages
 - 🌎 Feel free to browse through my repositories
 - 💞️ I'm always looking to collaborate on Projects.
 - 📫 Reach me on : jasperobed@gmail.com or jasperchima1@gmail.com
