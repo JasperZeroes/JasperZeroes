@@ -4,6 +4,7 @@
 - 🤭 I speak and understand 6 languages at the moment
 - 🐍 Python, SQL, DAX, R, C, and Java (Proficient in Python, SQL, DAX),
 -    (Familiarity with C and Java) and can read/understand codes in major programming languages
+-    I play the piano and sing during leisure
 - 🌎 Feel free to browse through my repositories
 - 💞️ I'm always looking to collaborate on Projects.
 - 📫 Reach me on : jasperobed@gmail.com or jasperchima1@gmail.com
