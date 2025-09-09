@@ -1,14 +1,20 @@
-- 👋 Hi, I’m Chima Obed, Enyeribe @JasperZeroes 
-- 👀 I'm developing Software engineering/programming and Data Science skills
-- 🌱 I’m a graduate of ExploreAI, Data Science Academy, ALX, Software Engineering and University of the People, Computer Science
-- 🤭 I speak 10 and understand a lot of Programming languages.
-- 🐍 C, C#, Javascript, Typescript, Python, SQL, DAX, R, Java, HTML5 (Proficient in Javascript, Typescript, Python, and SQL),
--    (Familiarity with C and Java) and can read/understand codes in major programming languages.
--    I developed a special interest for automation. The world is moving in that direction. 
-- 🤭  I play the piano and sing during leisure
-- 🌎 Feel free to browse through my repositories
-- 💞️ I'm always looking to collaborate on Projects.
-- 📫 Reach me on : jasperobed@gmail.com or jasperchima1@gmail.com
+Hi, I’m Chima Enyeribe — a Software Engineer with 2+ years of experience in Python development, web automation, and backend systems. I specialize in building scalable applications, automating workflows, and parsing complex datasets.
+
+🎯 Core Expertise: Python, Django, Flask, Selenium/Playwright, Requests, SQL, API Integrations, and Web Scraping
+
+🛠️ Other Skills: JavaScript, TypeScript, HTML5/CSS3, R, C#, PHP, MongoDB, PostgreSQL
+
+📊 Experienced with Postman for API testing, and comfortable debugging and reverse engineering API flows.
+
+⚡ Passionate about automation — from scraping large datasets to building systems that reduce manual effort and increase efficiency.
+
+🌍 Worked remotely with global teams across Africa and Europe, delivering projects in EdTech, HR automation, and data-driven applications.
+
+🎶 Outside of coding, I enjoy playing the piano and exploring the intersections of technology, creativity, and problem-solving.
+
+💡 I’m always open to collaborating on impactful projects that leverage technology to solve real-world problems.
+
+📫 Contact: jasperobed@gmail.com | jasperchima1@gmail.com
 
 <!---
 Jasperobed/Jasperobed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
